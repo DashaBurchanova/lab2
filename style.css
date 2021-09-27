@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: montserrat;
+}
+
+.logo {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bike {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bike__text {
+    
+    margin-left: 80px;
+    margin-top: 50px;
+    font-size: 24px;
+}
+
+.saper {
+     margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.saper__text {
+    font-size: 24px;
+}
+
+.saper__icon {
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.mac {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mac__text {
+    font-size: 24px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
